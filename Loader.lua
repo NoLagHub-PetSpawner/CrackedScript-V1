@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLagHub-PetSpawner/Handler/refs/heads/main/52d2c6bdf15bdd207846bc83b3cb99e6.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLagHub-PetSpawner/Handler/refs/heads/main/17cfae2e620ab9b88ad2b87218e7cceb.txt"))()
